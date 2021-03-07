@@ -1,4 +1,5 @@
-/* This is the first step to understanding FizzBuzz.
+/* 
+This is the first step to understanding FizzBuzz.
 
 Your inputs: a positive integer, n, greater than or equal to one. n is provided, you have NO CONTROL over its value.
 
