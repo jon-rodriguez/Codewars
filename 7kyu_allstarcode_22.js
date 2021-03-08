@@ -1,4 +1,6 @@
 /*
+Codewars JavaScript 7kyu - All Star Code Challenge #22 solution
+
 This Kata is intended as a small challenge for my students
 
 All Star Code Challenge #22
