@@ -16,20 +16,16 @@ strCount('', 'z')      // => 0
 */
 
 function strCount(str, letter){
-
   let count = 0;
-
   for (let i = 0; i < str.length; i++) {
     if (str[i] == letter)
       count++;
   }
-
   return count;
-
 }
+
 
 //another solution
 function strCount(str, letter){
-  //code here
   return str.split('').filter((x) => letter === x).length;
 }
