@@ -16,9 +16,7 @@ checkExam(["b", "c", "b", "a"], ["",  "a", "a", "c"]) → 0
 */
 
 function checkExam(array1, array2) {
- // good luck
   let grade = 0
-  //compare array1 to arr2
   for(let i =0; i<array1.length; i++){
     if(array2[i]===""){
       grade += 0
