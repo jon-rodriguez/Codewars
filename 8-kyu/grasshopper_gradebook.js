@@ -1,7 +1,7 @@
 /* 
-Grade book
-Complete the function so that it finds the average of the three scores passed to it and returns the letter value associated with that grade.
+Grasshopper - Grade book solution
 
+Complete the function so that it finds the average of the three scores passed to it and returns the letter value associated with that grade.
 Numerical Score	Letter Grade
 90 <= score <= 100	'A'
 80 <= score < 90	'B'
