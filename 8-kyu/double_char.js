@@ -12,7 +12,6 @@ Good Luck!
 */
 
 function doubleChar(str) {
-  // Your code here
   let arr = []
   for(let i=0; i<str.length; i++){
     arr.push(str[i])
