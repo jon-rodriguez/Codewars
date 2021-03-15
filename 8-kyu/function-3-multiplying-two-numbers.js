@@ -1,5 +1,5 @@
 /*
-Function 3 - multiplying two numbers
+Function 3 - multiplying two numbers solution
 
 Implement a function which multiplies two numbers.
 */
