@@ -1,4 +1,7 @@
 /*
+Training JS #10: loop statement --for
+
+
 for loop is one of the most frequently used loop statements in JS. It works like while loop. In lesson 9, we wrote a while loop:
 
 function sum1_100(){
