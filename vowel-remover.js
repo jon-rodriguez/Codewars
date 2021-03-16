@@ -8,6 +8,7 @@ shortcut("codewars") // --> cdwrs
 shortcut("goodbye")  // --> gdby
 */
 
+
 function shortcut(string){
   let arr = string.split('')
   let arr1 = ['a', 'e', 'i', 'o', 'u']
