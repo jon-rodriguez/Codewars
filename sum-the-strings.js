@@ -8,6 +8,7 @@ Create a function that takes 2 positive integers in form of a string as an input
 If either input is an empty string, consider it as zero.
 */
 
+
 function sumStr(a,b) {
   return String(Number(a)+Number(b))
 }
