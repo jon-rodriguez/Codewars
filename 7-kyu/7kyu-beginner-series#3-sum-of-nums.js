@@ -15,7 +15,6 @@ GetSum(-1, 2) == 2  // -1 + 0 + 1 + 2 = 2
 */
 
 function getSum( a,b ){
-   //Good luck!
   let sum=0
   if(a<=b){
      for(let i=a; i<=b; i++){
