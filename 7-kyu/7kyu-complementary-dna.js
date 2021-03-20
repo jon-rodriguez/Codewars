@@ -15,7 +15,6 @@ DNAStrand ("GTAT") // return "CATA"
 */
 
 function DNAStrand(dna){
-  //your code here
   let arr = dna.split('')
   let arr1 = []
   for(let i=0; i<arr.length; i++){
