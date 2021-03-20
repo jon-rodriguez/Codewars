@@ -14,6 +14,7 @@ For example:
  persistence(4) === 0 // because 4 is already a one-digit number
 */
 
+
 function persistence(num) {
    let i = 0;
    while (num.toString().length !== 1) {
