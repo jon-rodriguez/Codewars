@@ -22,7 +22,6 @@ The middle character(s) of the word represented as a string.
 */
 
 function getMiddle(s){
-  //Code goes here!
   if(s.length % 2 === 0){
     return s.substring(s.length/2 -1, s.length/2 +1)
   }else{
