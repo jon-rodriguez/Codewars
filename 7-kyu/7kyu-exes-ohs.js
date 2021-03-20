@@ -13,7 +13,6 @@ XO("zzoo") => false
 */
 
 function XO(str) {
-    //code here
   let arr = str.toLowerCase().split('')
   let sumX = 0
   let sumO = 0
